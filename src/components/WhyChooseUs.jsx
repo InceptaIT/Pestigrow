@@ -8,10 +8,9 @@ import {
 } from "react-icons/fa";
 
 const WhyChooseUsSection = () => {
-  const primaryColor = "text-[#1b5e20]"; // Dark Green
-  const accentBg = "bg-[#e8f5e8]"; // Very Light Green Background
+  const primaryColor = "text-[#1b5e20]";
+  const accentBg = "bg-[#e8f5e8]";
 
-  // Ensure itemVariants and containerVariants are defined or imported in your file
   const itemVariants = {
     hidden: { y: 30, opacity: 0 },
     visible: {

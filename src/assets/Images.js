@@ -31,6 +31,7 @@ import PGR2 from "./images/PGR2.jpg";
 import PGR3 from "./images/PGR3.jpg";
 import PGR4 from "./images/PGR4.jpg";
 import LOGO from "./images/logo1.png";
+import logo from "./images/logo3.jpeg";
 import farm from "./images/farm.webp";
 import hero from "./images/hero.jpeg";
 import ct1 from "./images/ct1.jpeg";
@@ -92,6 +93,7 @@ export const IMAGES = {
   pgr3: PGR3,
   pgr4: PGR4,
   logo: LOGO,
+  logo1: logo,
   product,
   industry,
   farm,

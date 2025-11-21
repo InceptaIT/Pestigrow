@@ -186,7 +186,7 @@ const products = [
       },
       { component: "Total", percentage: "100.00% w/w" },
     ],
-    imageUrl: IMAGES.f4, // Placeholder for the actual image path
+    imageUrl: IMAGES.f4,
   },
 
   // --- HERBICIDES ---
